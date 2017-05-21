@@ -6,7 +6,7 @@ We will cover the complete introduction to Spring framework. We will see an over
 
 Modules:
 
-1) [Dependency Injection](https://github.com/willem-vanheemstrasystems/java-spring-overview/tree/master/dependency_injection)
+1) [Dependency Injection](../tree/master/dependency_injection)
 
 2) Aspect Oriented Programming
 
