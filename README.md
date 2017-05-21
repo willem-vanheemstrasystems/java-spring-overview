@@ -1,5 +1,4 @@
-# java-spring-overview
-Java Spring - Overview
+# Java Spring - Overview
 
 Based on 'Spring Tutorial 01 - Introduction to Spring Framework' at https://www.youtube.com/watch?v=pU-4NybcjnE
 
