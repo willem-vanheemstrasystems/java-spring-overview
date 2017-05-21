@@ -1,3 +1,3 @@
 # Dependency Injection
 
-[<-- Back](../../text/master/README.md)
+[<-- Back](../../../README.md)
